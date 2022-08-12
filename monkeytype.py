@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 import pytesseract
 from pyautogui import screenshot
 from pynput.keyboard import Key, Controller
